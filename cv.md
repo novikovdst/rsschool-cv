@@ -24,7 +24,7 @@ I am always energetic and eager to learn new skills.I have experience working as
   <p>Before...</p>
 
   <script>
-    alert( 'Hello World!' );
+    alert( 'Hello Friends!' );
   </script>
 
   <p>...After.</p>
